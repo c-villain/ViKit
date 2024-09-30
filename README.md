@@ -14,7 +14,7 @@ This library allows you to integrate system design elements into your iOS projec
 
 ## Requirements
 
-- iOS 13
+- iOS 14
 - Xcode 15
 - Swift Package Manager
 
