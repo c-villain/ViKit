@@ -19,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "ViKit",
             url: "https://github.com/c-villain/ViKit/releases/download/1.0.0/ViKit.xcframework.zip",
-            checksum: "3991168291e62cb4bfb6123fe3787b79cbf8800b5b083b58ed330478f74463e6"
+            checksum: "e7aed3ac04cc53e080ee20b985bff281a8541efa46e2b20f6bf3e803699cde3b"
         ),
     ]
 )
